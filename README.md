@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @NanaVeee, or I go by as Birdie. 
 - 👀 I’m interested in the intricate side of life.
-- 🌱 I’m currently learning html and css.
+- 🌱 I’m currently learning html, css and Javascript.
+- I do plan on learning more and more after I get my certificates in Front-End Development. 
 - 📫 How to reach me, Email : Prevailedstrength@proton.me
 - 
 
